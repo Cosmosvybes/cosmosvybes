@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ayomide chris 
+# Hi there 👋, I'm chris 
 
 # About Me
 - 🔭 I’m currently working on ERC20 tokens.
