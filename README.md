@@ -21,3 +21,5 @@
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/username/)
+[![Twitter/X](https://img.shields.io/badge/Twiiter-Connect-blue)](https://www.X.com/ayo_cosmos/)
+
