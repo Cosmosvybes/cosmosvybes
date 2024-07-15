@@ -1,8 +1,8 @@
 # Hi there 👋, I'm chris 
 
 # About Me
-- 🔭 I’m currently working on ERC20 tokens.
 - 🌱 I’m currently learning blockchain/ smart contract development.
+- 🔭 I’m currently working on ERC20 tokens.
 - 👯 I’m looking to collaborate on web3  and web2 projects.
 - 🤔 I’m looking for help with gigs.
 - 💬 Ask me about web dev and smart  contract development.
